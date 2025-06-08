@@ -1,6 +1,6 @@
-# predicting_stress_level
+# predicting_mental health
 
-this model predicts stress level from text
+this model predicts your mental health
 
 -------------------------------------------------------------------------------------------------------------
 
